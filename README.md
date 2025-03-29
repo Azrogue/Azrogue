@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Judikael NEDEV
 
-<!--
-**Azrogue/Azrogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en 5ᵉ année informatique (RNCP38823 - Expert en architectures systèmes, réseaux et sécurité)  
+💼 Actuellement en alternance chez **Mathematic Studio**  
+📍 Basé à **Paris, France**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+
+Je suis **Admin IT** passionné par :
+- 🐍 Le **développement Python**
+- 🤖 L’**automatisation**
+- 🧠 L’**intelligence artificielle**
+- 🛠️ Le **self-hosting** et les solutions open-source
+
+Je suis constamment à la recherche de nouvelles manières d’optimiser, sécuriser et automatiser les systèmes et les réseaux.
+
+---
+
+## 🧰 Compétences techniques
+
+- **Langages** : Python
+- **Frameworks** : Django
+- **Systèmes** : Linux, Proxmox
+- **Conteneurisation** : Docker
+
+---
+
+## 📌 Projets
+
+> *Pas encore de dépôt public, mais j’y travaille !*
+
+---
+
+## 📫 Contact
+
+Pour l’instant, je ne partage pas de liens sociaux, mais vous pouvez toujours me contacter via GitHub si besoin.
+
+---
+
+_⚡ Pronoms : il / lui_
+
