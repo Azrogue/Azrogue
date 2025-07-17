@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Judikael NEDEV
 
-🎓 Étudiant en 5ᵉ année informatique (RNCP38823 - Expert en architectures systèmes, réseaux et sécurité)  
+🎓 Diplomé d'un RNCP38823 - Expert en architectures systèmes, réseaux et sécurité
 💼 Actuellement en alternance chez **Mathematic Studio**  
 📍 Basé à **Paris, France**
 
