@@ -35,9 +35,6 @@ Je suis constamment à la recherche de nouvelles manières d’optimiser, sécur
 
 ## 📫 Contact
 
-Pour l’instant, je ne partage pas de liens sociaux, mais vous pouvez toujours me contacter via GitHub si besoin.
+[Mon Linkedn](https://www.linkedin.com/in/judikael-nedev-4115aa17a/)
 
----
-
-_⚡ Pronoms : il / lui_
 
